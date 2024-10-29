@@ -1,4 +1,4 @@
-# AlignGroup: Learning and Aligning Group Consensus with Member Preferences for Group Recommendation
+# [CIKM'24] AlignGroup: Learning and Aligning Group Consensus with Member Preferences for Group Recommendation
 
 ## Introduction
 
@@ -28,4 +28,17 @@ python main.py --dataset=CAMRa2011
 For more running options, please refer to `main.py`
 
 
+
+## Citation
+
+If you find AlignGroup useful in your research or applications, please kindly cite:
+```tex
+@inproceedings{xu2024aligngroup,
+  title={AlignGroup: Learning and Aligning Group Consensus with Member Preferences for Group Recommendation},
+  author={Xu, Jinfeng and Chen, Zheyu and Li, Jinze and Yang, Shuo and Wang, Hewei and Ngai, Edith CH},
+  booktitle={Proceedings of the 33rd ACM International Conference on Information and Knowledge Management},
+  pages={2682--2691},
+  year={2024}
+}
+```
 
